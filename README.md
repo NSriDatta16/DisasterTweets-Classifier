@@ -2,7 +2,6 @@
 
 Classify tweets as **“disaster”** vs **“not disaster”** using modern NLP techniques.  
 ---
-
 ## 1. Project Overview
 
 During disasters, Twitter/X often becomes a real-time information channel.  
