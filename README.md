@@ -1,5 +1,4 @@
 # Disaster Tweets – NLP Classifier
-
 Classify tweets as **“disaster”** vs **“not disaster”** using modern NLP techniques.  
 ---
 ## 1. Project Overview
